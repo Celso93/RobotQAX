@@ -1,0 +1,4 @@
+node_modules
+__MACOSX
+./yodapp-robot/Appium-Inspector-linux-2023.8.4.AppImage
+./yodapp-robot/yodapp-beta.apk
